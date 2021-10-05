@@ -29,7 +29,7 @@ body {
 }
 
 .weatherText {
-  width: 400px;
+  width: 50vh;
   color: white;
   font-weight: bold;
   font-family: monospace;
